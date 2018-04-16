@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Central Repository: com/github/lalyos/jfiglet/0.0.3</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+body {
+	background: #fff;
+}
+	</style>
+</head>
+
+<body>
+	<header>
+		<h1>com/github/lalyos/jfiglet/0.0.3</h1>
+	</header>
+	<hr/>
+	<main>
+		<pre id="contents">
+<a href="../">../</a>
+<a href="jfiglet-0.0.3-javadoc.jar" title="jfiglet-0.0.3-javadoc.jar">jfiglet-0.0.3-javadoc.jar</a>                         2014-04-07 08:24     23701      
+<a href="jfiglet-0.0.3-javadoc.jar.asc" title="jfiglet-0.0.3-javadoc.jar.asc">jfiglet-0.0.3-javadoc.jar.asc</a>                     2014-04-07 08:24       495      
+<a href="jfiglet-0.0.3-javadoc.jar.asc.md5" title="jfiglet-0.0.3-javadoc.jar.asc.md5">jfiglet-0.0.3-javadoc.jar.asc.md5</a>                 2014-04-07 08:24        32      
+<a href="jfiglet-0.0.3-javadoc.jar.asc.sha1" title="jfiglet-0.0.3-javadoc.jar.asc.sha1">jfiglet-0.0.3-javadoc.jar.asc.sha1</a>                2014-04-07 08:24        40      
+<a href="jfiglet-0.0.3-javadoc.jar.md5" title="jfiglet-0.0.3-javadoc.jar.md5">jfiglet-0.0.3-javadoc.jar.md5</a>                     2014-04-07 08:24        32      
+<a href="jfiglet-0.0.3-javadoc.jar.sha1" title="jfiglet-0.0.3-javadoc.jar.sha1">jfiglet-0.0.3-javadoc.jar.sha1</a>                    2014-04-07 08:24        40      
+<a href="jfiglet-0.0.3-sources.jar" title="jfiglet-0.0.3-sources.jar">jfiglet-0.0.3-sources.jar</a>                         2014-04-07 08:24     12018      
+<a href="jfiglet-0.0.3-sources.jar.asc" title="jfiglet-0.0.3-sources.jar.asc">jfiglet-0.0.3-sources.jar.asc</a>                     2014-04-07 08:24       495      
+<a href="jfiglet-0.0.3-sources.jar.asc.md5" title="jfiglet-0.0.3-sources.jar.asc.md5">jfiglet-0.0.3-sources.jar.asc.md5</a>                 2014-04-07 08:24        32      
+<a href="jfiglet-0.0.3-sources.jar.asc.sha1" title="jfiglet-0.0.3-sources.jar.asc.sha1">jfiglet-0.0.3-sources.jar.asc.sha1</a>                2014-04-07 08:24        40      
+<a href="jfiglet-0.0.3-sources.jar.md5" title="jfiglet-0.0.3-sources.jar.md5">jfiglet-0.0.3-sources.jar.md5</a>                     2014-04-07 08:24        32      
+<a href="jfiglet-0.0.3-sources.jar.sha1" title="jfiglet-0.0.3-sources.jar.sha1">jfiglet-0.0.3-sources.jar.sha1</a>                    2014-04-07 08:24        40      
+<a href="jfiglet-0.0.3.jar" title="jfiglet-0.0.3.jar">jfiglet-0.0.3.jar</a>                                 2014-04-07 08:24     14264      
+<a href="jfiglet-0.0.3.jar.asc" title="jfiglet-0.0.3.jar.asc">jfiglet-0.0.3.jar.asc</a>                             2014-04-07 08:24       495      
+<a href="jfiglet-0.0.3.jar.asc.md5" title="jfiglet-0.0.3.jar.asc.md5">jfiglet-0.0.3.jar.asc.md5</a>                         2014-04-07 08:24        32      
+<a href="jfiglet-0.0.3.jar.asc.sha1" title="jfiglet-0.0.3.jar.asc.sha1">jfiglet-0.0.3.jar.asc.sha1</a>                        2014-04-07 08:24        40      
+<a href="jfiglet-0.0.3.jar.md5" title="jfiglet-0.0.3.jar.md5">jfiglet-0.0.3.jar.md5</a>                             2014-04-07 08:24        32      
+<a href="jfiglet-0.0.3.jar.sha1" title="jfiglet-0.0.3.jar.sha1">jfiglet-0.0.3.jar.sha1</a>                            2014-04-07 08:24        40      
+<a href="jfiglet-0.0.3.pom" title="jfiglet-0.0.3.pom">jfiglet-0.0.3.pom</a>                                 2014-04-07 08:24      2709      
+<a href="jfiglet-0.0.3.pom.asc" title="jfiglet-0.0.3.pom.asc">jfiglet-0.0.3.pom.asc</a>                             2014-04-07 08:24       495      
+<a href="jfiglet-0.0.3.pom.asc.md5" title="jfiglet-0.0.3.pom.asc.md5">jfiglet-0.0.3.pom.asc.md5</a>                         2014-04-07 08:24        32      
+<a href="jfiglet-0.0.3.pom.asc.sha1" title="jfiglet-0.0.3.pom.asc.sha1">jfiglet-0.0.3.pom.asc.sha1</a>                        2014-04-07 08:24        40      
+<a href="jfiglet-0.0.3.pom.md5" title="jfiglet-0.0.3.pom.md5">jfiglet-0.0.3.pom.md5</a>                             2014-04-07 08:24        32      
+<a href="jfiglet-0.0.3.pom.sha1" title="jfiglet-0.0.3.pom.sha1">jfiglet-0.0.3.pom.sha1</a>                            2014-04-07 08:24        40      
+		</pre>
+	</main>
+	<hr/>
+</body>
+
+</html>
